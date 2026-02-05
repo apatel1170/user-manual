@@ -129,7 +129,7 @@ This guide is a blueprint of my professional operating system—who I am, how I 
 
 
 
-##  What Makes Me Happy
+## 🔋 What Fuels Me
 
 ### The Nirvana of Completion
 > Finishing a project with absolutely no loose ends is my professional happy place.
