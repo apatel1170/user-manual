@@ -1,4 +1,4 @@
-# Working With Me: Anuj Patel
+# Working With Me
 
 ## ⚡ Quick Snapshot
 
