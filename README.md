@@ -8,8 +8,8 @@
 | **Likes** | Golf, NYT Crosswords, Candy Crush, cooking, Portland Trailblazers, Golden State Valkyries, reading Fiction and listening to Nonfiction. |
 | **Dislikes** | Waiting in lines, sandwiches with no integrity, loud cars, zucchini, the Trailblazers front office, topping the ball. |
 | **Current Location** | San Francisco, CA |
-| **Past Places** | Harare, Zimbabwe → Lake Oswego, OR → Stanford, CA → SFO → Ann Arbor, MI → SFO |
-| **Hometown** | Lake Oswego, OR |
+| **Past Places** | Zimbabwe → Portland, OR → Stanford, CA → SFO → Ann Arbor, MI → SFO |
+| **Hometown** | Portland, OR |
 | **Roles** | Research Scientist; Consulting; VC Associate; BizOps Leader |
 | **Meyers-Briggs** | INTJ |
 
