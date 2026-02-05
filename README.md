@@ -1,16 +1,18 @@
 # Working With Me
 
-## ⚡ Quick Snapshot
+This guide is a blueprint of my professional operating system—who I am, how I think, and how we can best collaborate. It is a living document, not a static one. By hosting this on GitHub, I am committing to a transparent evolution; as I learn and grow as a leader, this manual will reflect those updates in real-time. Because I believe the best work happens when we show up as our full selves, you will also find glimpses here into what motivates me outside the office. Consider this the current version of how to get the best out of me. 
+
+## ⚡ Personal Snapshot
 
 | Topic | Details |
 | :--- | :--- |
-| **Music** | Pretty much everything—regular rotation includes Alt J, Grateful Dead, Tom Misch, Tame Impala, Andrew Bird, Khruangbin, Frank Ocean, Fetty Wap, Disclosure, Polo & Pan, Itzhak Perlman, Joe Hisaishi. |
-| **Likes** | Golf, NYT Crosswords, Candy Crush, cooking, Portland Trailblazers, Golden State Valkyries, reading Fiction and listening to Nonfiction. |
-| **Dislikes** | Waiting in lines, sandwiches with no integrity, loud cars, zucchini, the Trailblazers front office, topping the ball. |
+| **Music** | Pretty much everything—regular rotation includes Alt J, Grateful Dead, Tom Misch, Tame Impala, Andrew Bird, Khruangbin, Miriam Makeba, Frank Ocean, Fetty Wap, Disclosure, Polo & Pan, Itzhak Perlman, Joe Hisaishi |
+| **Likes** | Golf, NYT Crosswords, Candy Crush, cooking, investing, puzzles, Portland Trailblazers, Golden State Valkyries, reading Fiction and listening to Nonfiction |
+| **Dislikes** | Waiting in lines, sandwiches with no integrity, podcast ads, loud cars, zucchini, the Trailblazers front office, topping the ball |
 | **Current Location** | San Francisco, CA |
-| **Past Places** | Zimbabwe → Portland, OR → Stanford, CA → SFO → Ann Arbor, MI → SFO |
+| **Past FOBs** | Zimbabwe → Portland, OR → Stanford, CA → SF → Ann Arbor, MI → SF |
 | **Hometown** | Portland, OR |
-| **Roles** | Research Scientist; Consulting; VC Associate; BizOps Leader |
+| **Past Roles** | Research Scientist; Consultant; VC Associate / CoS; BizOps |
 | **Meyers-Briggs** | INTJ |
 
 ### Core Strengths
@@ -20,7 +22,7 @@
 > 9:30 AM – 5:30 PM PT. I often pull a second shift from 8-11 PM. If you get a late message, there is zero expectation of a response until the morning.
 
 ### Communication Bias
-> Written > Verbal. I think (and sometimes overthink) before I type.
+> Written > Verbal. I think (and often overthink) before I type.
 
 ### Decision Style
 > Logic + intuition, validated by data.
@@ -30,7 +32,7 @@
 ## 🎯 Current Areas of Focus
 
 ### Scaling
-> Building systems to support the mission and 0 -> 1 stage of AI startups.
+> Building systems to support the vision and 0 -> 1 for AI startups.
 
 ### Structural Improvements
 > Moving away from "one-off wins" toward long-term, durable workflows.
@@ -40,7 +42,7 @@
 
 
 
-## 🧠 How I Think & Make Decisions
+## 🧠 How I Think
 
 ### Simple Building Blocks
 > I reduce complexity into simple mental models. If I ask many questions, I’m trying to find the first principles to build upward from.
@@ -59,18 +61,18 @@
 ## 🏆 What I Value
 
 ### Radical Candor
-> Directness and accuracy beat optics every time. I expect truth-seeking in our professional interactions.
+> Directness and accuracy beat optics every time. I expect truth-seeking in our professional interactions. Expect the occassional surprisingly strong opinion here and there.
 
 ### Levity
-> Work is better when we don't take ourselves too seriously. I value humor as a tool to diffuse tension and build genuine rapport—expect a dry sense of humor and the occasional strong opinion on why zucchini has no place in a sandwich.
+> I believe humor is a vital tool for diffusing tension and building genuine rapport. I try to bring a sense of perspective and a dry wit to the day-to-day; I take our mission seriously, but I try not to take myself too seriously.
 
 ### Deep Ownership
-> If you see a gap in a workflow, own the fix regardless of your title.
+> If you see a gap, own the fix regardless of your title.
 
 ### Context Depth
 > I need to understand stakeholders and incentives at the workflow level to feel confident in a path forward.
 
-### Bias for Action (with Rigor)
+### Bias for Action (with purpose)
 > Move fast, but understand *why* we are moving in that direction.
 
 
@@ -84,7 +86,7 @@
 > Numbers are incomplete without interpretation. Bring the metrics, but tell the story behind them.
 
 ### Prepared, Not Perfect
-> I am a perfectionist by nature, but I am practicing the 80/20 rule. Early drafts are better than delayed perfection—just label them as such.
+> I am a perfectionist by nature, but I am trying to practice the 80/20 rule more. Early drafts are better than delayed perfection—just label them as such.
 
 ### Collaborative Framing
 > I prefer executing independently once we have aligned on the "why" and the goals collaboratively.
@@ -122,7 +124,8 @@
 > I often get distracted by Slack or "meeting anticipation." Remind me to protect time for deep work.
 
 ### Morning Lag
-> I am not a morning person. For high-stakes logic puzzles, catch me after 10:00 AM.
+> I am not a morning person. For high-stakes logic puzzles, catch me after 10:00 AM. Most deep work is done late in the day.
+
 
 
 
@@ -151,5 +154,4 @@
 - Passive updates instead of proactive communication
 - Withholding feedback or bad news  
 - Credit hoarding or politics  
-- Endless perfection loops that block progress  
-- Sandwiches with no integrity
+- Endless perfection loops that block progress
